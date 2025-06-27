@@ -1,0 +1,10 @@
+# Binaries and object files
+[Bb]in/
+[Oo]bj/
+
+# Rider
+.idea/
+*.DotSettings.user
+
+# NuGet packages
+*.nupkg
